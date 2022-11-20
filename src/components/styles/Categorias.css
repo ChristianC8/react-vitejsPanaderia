@@ -1,0 +1,11 @@
+#Categorias{
+    display: flex;
+    flex-direction: row;
+}
+#TodasLasCat{
+    margin: 9% 20%;
+}
+
+.CategoriasTitle{
+    margin-left: 26%;
+}
